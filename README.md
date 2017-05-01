@@ -1,3 +1,15 @@
+On the branch r-car-m3-gdp11
+----------------------------
+
+This is a convenience branch with the purpose of building a GDP 11 image that includes the Chromium browser.
+
+Tested hardware:
+* R-Car M3 starter kit: working.
+* Minnowboard: working.
+* Raspberry Pi 3: compilation completed, browser doesn't work.
+
+Original README below.
+
 GENIVI Development Platform
 ========================
 
